@@ -84,6 +84,12 @@ SUPPORTED_DEVICES = {
     "35002414": {"name": "Z-Wave Repeater with switching function",
                  "Type": OTHER_TYPE},
     "35140462": {"name": "DuoFern Universal dimmer", "Type": OTHER_TYPE},
+    "13601001": {"name": "DuoFern Radiator Actuator", "Type": OTHER_TYPE},
+    "13601001_A": {"name": "DuoFern Radiator Actuator", "Type": OTHER_TYPE},
+    "13601001_S": {
+        "name": "Temperature sensor DuoFern Radiator Actuator",
+        "Type": SENSOR_TYPE,
+        },
     "35003064": {"name": "DuoFern Radiator Actuator", "Type": OTHER_TYPE},
     "35003064_A": {"name": "DuoFern Radiator Actuator", "Type": OTHER_TYPE},
     "35003064_S": {
